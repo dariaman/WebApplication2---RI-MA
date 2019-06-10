@@ -1,0 +1,32 @@
+﻿
+.modal {
+    position: absolute;
+    top: 0;
+    left: 0;
+    /*background-color: #666666;*/
+    background-color: #fff;
+    z-index: 10001;
+    opacity: 1;
+    filter: alpha(opacity=80);
+    -moz-opacity: 1;
+    min-height: 100%;
+    width: 100%;
+}
+
+.loading {
+    padding: 5px 5px;
+    font-family: Arial;
+    font-size: 10pt;
+    border: 5px solid #CCC;
+    width: 200px;
+    height: 45px;
+    position: fixed;
+    /*background-color: #fff;*/
+    /*background-color: #DEF1F4;*/
+    background: #DEF1F4;
+    background: linear-gradient(top, #DEF1F4 0%, #ffffff 100%);
+    background: -moz-linear-gradient(top, #DEF1F4 0%, #ffffff 100%);
+    background: -webkit-linear-gradient(top, #DEF1F4 0%,#ffffff 100%);
+    z-index: 10002;
+    display: none;
+}

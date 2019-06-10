@@ -1,0 +1,22 @@
+USE [Celcom39028]
+GO
+/****** Object:  StoredProcedure [dbo].[sp_s_TransactionTbl]    Script Date: 12/20/2015 19:25:55 ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+Create proc [dbo].[sp_s_TransactionTbl] @datefrom as date,@dateto as date,@nc_keyword as varchar(250)
+as
+with ctemain 
+as
+(
+select convert(date,nc_DateIN,112) as nc_DateIN,left(nc_timeIN,2)+':'+substring(nc_timeIN,3,2)+':'+right(nc_timeIN,2) as nc_timeIN
+,nc_ChargeMSISDN
+,nc_Orikeyword from TransactionTbl with (nolock)
+)
+
+select  * from ctemain
+where convert(date,nc_DateIN,112) between @datefrom and @dateto and nc_Orikeyword like @nc_keyword +'%' 
+
+--select convert(varchar(20),getdate(),112),convert(datetime,('20000101'+nc_DateIN),112) 
+

@@ -1,0 +1,76 @@
+C:\Users\Har-Va\documents\visual studio 2012\Projects\WebApplication2\WebService1\obj\Debug\WebService.vbproj.GenerateResource.Cache
+C:\Users\Har-Va\documents\visual studio 2012\Projects\WebApplication2\WebService1\bin\WebService.pdb
+C:\Users\Har-Va\documents\visual studio 2012\Projects\WebApplication2\WebService1\bin\WebService.xml
+C:\Users\Har-Va\documents\visual studio 2012\Projects\WebApplication2\WebService1\obj\Debug\WebService.Resources.resources
+C:\Users\Har-Va\documents\visual studio 2012\Projects\WebApplication2\WebService1\obj\Debug\WebService.dll
+C:\Users\Har-Va\documents\visual studio 2012\Projects\WebApplication2\WebService1\obj\Debug\WebService.xml
+C:\Users\Har-Va\documents\visual studio 2012\Projects\WebApplication2\WebService1\obj\Debug\WebService.pdb
+C:\Users\Har-Va\documents\visual studio 2012\Projects\WebApplication2\WebService1\obj\Debug\WebService.vbprojResolveAssemblyReference.cache
+F:\Kantor Aca\WebApplication2\WebService1\bin\WebService.pdb
+F:\Kantor Aca\WebApplication2\WebService1\bin\WebService.xml
+F:\Kantor Aca\WebApplication2\WebService1\obj\Debug\WebService.vbprojResolveAssemblyReference.cache
+F:\Kantor Aca\WebApplication2\WebService1\obj\Debug\WebService.Resources.resources
+F:\Kantor Aca\WebApplication2\WebService1\obj\Debug\WebService.vbproj.GenerateResource.Cache
+F:\Kantor Aca\WebApplication2\WebService1\obj\Debug\WebService.dll
+F:\Kantor Aca\WebApplication2\WebService1\obj\Debug\WebService.xml
+F:\Kantor Aca\WebApplication2\WebService1\obj\Debug\WebService.pdb
+D:\Kantor Aca\WebApplication2\WebService1\bin\WebService.pdb
+D:\Kantor Aca\WebApplication2\WebService1\bin\WebService.xml
+D:\Kantor Aca\WebApplication2\WebService1\obj\Debug\WebService.vbprojResolveAssemblyReference.cache
+D:\Kantor Aca\WebApplication2\WebService1\obj\Debug\WebService.Resources.resources
+D:\Kantor Aca\WebApplication2\WebService1\obj\Debug\WebService.vbproj.GenerateResource.Cache
+D:\Kantor Aca\WebApplication2\WebService1\obj\Debug\WebService.dll
+D:\Kantor Aca\WebApplication2\WebService1\obj\Debug\WebService.xml
+D:\Kantor Aca\WebApplication2\WebService1\obj\Debug\WebService.pdb
+D:\Kantor Aca\WebApplication2 - KAI\WebService1\bin\WebService.pdb
+D:\Kantor Aca\WebApplication2 - KAI\WebService1\bin\WebService.xml
+D:\Kantor Aca\WebApplication2 - KAI\WebService1\obj\Debug\WebService.vbprojResolveAssemblyReference.cache
+D:\Kantor Aca\WebApplication2 - KAI\WebService1\obj\Debug\WebService.Resources.resources
+D:\Kantor Aca\WebApplication2 - KAI\WebService1\obj\Debug\WebService.vbproj.GenerateResource.Cache
+D:\Kantor Aca\WebApplication2 - KAI\WebService1\obj\Debug\WebService.dll
+D:\Kantor Aca\WebApplication2 - KAI\WebService1\obj\Debug\WebService.xml
+D:\Kantor Aca\WebApplication2 - KAI\WebService1\obj\Debug\WebService.pdb
+D:\Kantor Aca\WebApplication2 - POS\WebService1\bin\WebService.pdb
+D:\Kantor Aca\WebApplication2 - POS\WebService1\bin\WebService.xml
+D:\Kantor Aca\WebApplication2 - POS\WebService1\obj\Debug\WebService.vbprojResolveAssemblyReference.cache
+D:\Kantor Aca\WebApplication2 - POS\WebService1\obj\Debug\WebService.Resources.resources
+D:\Kantor Aca\WebApplication2 - POS\WebService1\obj\Debug\WebService.vbproj.GenerateResource.Cache
+D:\Kantor Aca\WebApplication2 - POS\WebService1\obj\Debug\WebService.dll
+D:\Kantor Aca\WebApplication2 - POS\WebService1\obj\Debug\WebService.xml
+D:\Kantor Aca\WebApplication2 - POS\WebService1\obj\Debug\WebService.pdb
+D:\Kantor Aca\WebApplication2 - wong\WebService1\bin\WebService.pdb
+D:\Kantor Aca\WebApplication2 - wong\WebService1\bin\WebService.xml
+D:\Kantor Aca\WebApplication2 - wong\WebService1\obj\Debug\WebService.vbprojResolveAssemblyReference.cache
+D:\Kantor Aca\WebApplication2 - wong\WebService1\obj\Debug\WebService.Resources.resources
+D:\Kantor Aca\WebApplication2 - wong\WebService1\obj\Debug\WebService.vbproj.GenerateResource.Cache
+D:\Kantor Aca\WebApplication2 - wong\WebService1\obj\Debug\WebService.dll
+D:\Kantor Aca\WebApplication2 - wong\WebService1\obj\Debug\WebService.xml
+D:\Kantor Aca\WebApplication2 - wong\WebService1\obj\Debug\WebService.pdb
+D:\Kantor Aca\WebApplication2 - RI-MA\WebService1\obj\Debug\WebService.Resources.resources
+D:\Kantor Aca\WebApplication2 - RI-MA\WebService1\obj\Debug\WebService.vbproj.GenerateResource.Cache
+D:\Kantor Aca\WebApplication2 - RI-MA\WebService1\obj\Debug\WebService.dll
+D:\Kantor Aca\WebApplication2 - RI-MA\WebService1\obj\Debug\WebService.xml
+D:\Kantor Aca\WebApplication2 - RI-MA\WebService1\obj\Debug\WebService.pdb
+D:\Kantor Aca\WebApplication2 - RI-MA\WebService1\bin\WebService.pdb
+D:\Kantor Aca\WebApplication2 - RI-MA\WebService1\bin\WebService.xml
+D:\Kantor Aca\WebApplication2 - RI-MA\WebService1\obj\Debug\WebService.vbprojResolveAssemblyReference.cache
+E:\source code\WebApplication2 - RI-MA\WebService1\bin\WebService.pdb
+E:\source code\WebApplication2 - RI-MA\WebService1\bin\WebService.xml
+E:\source code\WebApplication2 - RI-MA\WebService1\obj\Debug\WebService.Resources.resources
+E:\source code\WebApplication2 - RI-MA\WebService1\obj\Debug\WebService.vbproj.GenerateResource.Cache
+E:\source code\WebApplication2 - RI-MA\WebService1\obj\Debug\WebService.dll
+E:\source code\WebApplication2 - RI-MA\WebService1\obj\Debug\WebService.xml
+E:\source code\WebApplication2 - RI-MA\WebService1\obj\Debug\WebService.pdb
+E:\source code\WebApplication2 - RI-MA\WebService1\obj\Debug\WebService.vbprojResolveAssemblyReference.cache
+E:\source code\WebApplication2 - RI-MA\WebService1\bin\Newtonsoft.Json.dll
+E:\source code\WebApplication2 - RI-MA\WebService1\bin\Newtonsoft.Json.xml
+D:\Proj\WebApplication2 - RI-MA\WebService1\bin\WebService.pdb
+D:\Proj\WebApplication2 - RI-MA\WebService1\bin\WebService.xml
+D:\Proj\WebApplication2 - RI-MA\WebService1\bin\Newtonsoft.Json.dll
+D:\Proj\WebApplication2 - RI-MA\WebService1\bin\Newtonsoft.Json.xml
+D:\Proj\WebApplication2 - RI-MA\WebService1\obj\Debug\WebService.vbprojResolveAssemblyReference.cache
+D:\Proj\WebApplication2 - RI-MA\WebService1\obj\Debug\WebService.Resources.resources
+D:\Proj\WebApplication2 - RI-MA\WebService1\obj\Debug\WebService.vbproj.GenerateResource.Cache
+D:\Proj\WebApplication2 - RI-MA\WebService1\obj\Debug\WebService.dll
+D:\Proj\WebApplication2 - RI-MA\WebService1\obj\Debug\WebService.xml
+D:\Proj\WebApplication2 - RI-MA\WebService1\obj\Debug\WebService.pdb

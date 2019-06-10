@@ -1,0 +1,44 @@
+﻿.jqx-alert
+   {
+     position: absolute;
+     overflow: hidden;
+     z-index: 99999;
+     margin: 0;
+     padding: 0;
+   }
+
+   .jqx-alert-header
+   {
+     outline: none;
+     border: 1px solid #999;
+     overflow: hidden;
+     padding: 5px;
+     height: auto;
+     border:1px solid rgba(70, 221, 0, 0.40);
+     white-space: nowrap;
+     overflow: hidden;
+     background-color:#E8E8E8; 
+     background-image:-webkit-gradient(linear,0 0,0 100%,from(#fafafa),to(#dadada)); 
+     background-image:-moz-linear-gradient(top,#fafafa,#dadada); 
+     background-image:-o-linear-gradient(top,#fafafa,#dadada);
+   }
+
+   .jqx-alert-content-Alert
+{
+    outline: none;
+    overflow: auto; /*background:#DDFFDD url('images/error.png') no-repeat 10px 50%;*/
+    border: 1px solid rgba(70, 221, 0, 0.40);
+    background-color: #FFD9D9;
+    height: 125px;
+    padding-top: 10px;
+}
+
+   .jqx-alert-content-Information
+   {
+     outline: none;
+     overflow: auto;
+     border:1px solid rgba(70, 221, 0, 0.40);
+     background-color: #E8F4FF;
+     height:125px;
+     padding-top:10px;
+   }

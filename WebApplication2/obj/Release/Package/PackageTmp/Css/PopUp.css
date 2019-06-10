@@ -1,0 +1,195 @@
+﻿/*form popup*/
+.Overlay {
+    position: fixed;
+    top: 0px;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    overflow: hidden;
+    padding: 0;
+    background-color: #2832e9;
+    filter: alpha(opacity=70);
+    opacity: 0.65;
+    -moz-opacity: 0.65;
+    z-index: 99990;
+    background-image:url('../images/background.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+}
+
+.modalPopup
+{
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    z-index: 1040;
+    display: yes;
+    overflow: hidden;
+    -webkit-overflow-scrolling: touch;
+    outline: 0;
+}
+    /*.modalPopup.fade .modalPopup-dialog
+    {
+        -webkit-transition: -webkit-transform .3s ease-out;
+        -o-transition: -o-transform .3s ease-out;
+        transition: transform .3s ease-out;
+        -webkit-transform: translate(0,-25%);
+        -ms-transform: translate(0,-25%);
+        -o-transform: translate(0,-25%);
+        transform: translate(0,-25%);
+    }
+
+    .modalPopup.in .modalPopup-dialog
+    {
+        -webkit-transform: translate(0,0);
+        -ms-transform: translate(0,0);
+        -o-transform: translate(0,0);
+        transform: translate(0,0);
+    }*/
+
+.modalPopup-open .modalPopup
+{
+    overflow-x: hidden;
+    overflow-y: auto;
+}
+
+.modalPopup-dialog
+{
+    position: relative;
+    width: auto;
+    margin: 10px;
+}
+
+.modalPopup-content
+{
+    position: relative;
+    background-color: #fff;
+    -webkit-background-clip: padding-box;
+    background-clip: padding-box;
+    border: 1px solid #999;
+    border: 1px solid rgba(0,0,0,.2);
+    border-radius: 6px;
+    outline: 0;
+    -webkit-box-shadow: 0 3px 9px rgba(0,0,0,.5);
+    box-shadow: 0 3px 9px rgba(0,0,0,.5);
+}
+
+.modalPopup-backdrop
+{
+    position: absolute;
+    top: 0;
+    right: 0;
+    left: 0;
+    background-color: #000;
+}
+
+    /*.modalPopup-backdrop.fade
+    {
+        filter: alpha(opacity=0);
+        opacity: 0;
+    }
+
+    .modalPopup-backdrop.in
+    {
+        filter: alpha(opacity=50);
+        opacity: .5;
+    }*/
+
+.modalPopup-header
+{
+    cursor:move;
+    min-height: 16.43px;
+    padding: 15px;
+    border-bottom: 1px solid #e5e5e5;
+}
+
+    .modalPopup-header .close
+    {
+        margin-top: -2px;
+    }
+
+.modalPopup-title
+{
+    margin: 0;
+    line-height: 1.42857143;
+}
+
+.modalPopup-body
+{
+    position: relative;
+    padding: 2px;
+}
+
+.modalPopup-footer
+{
+    padding: 15px;
+    text-align: right;
+    border-top: 1px solid #e5e5e5;
+}
+
+    .modalPopup-footer .btn + .btn
+    {
+        margin-bottom: 0;
+        margin-left: 5px;
+    }
+
+    .modalPopup-footer .btn-group .btn + .btn
+    {
+        margin-left: -1px;
+    }
+
+    .modalPopup-footer .btn-block + .btn-block
+    {
+        margin-left: 0;
+    }
+
+.modalPopup-scrollbar-measure
+{
+    position: absolute;
+    top: -9999px;
+    width: 50px;
+    height: 50px;
+    overflow: scroll;
+}
+
+@media (min-width:768px)
+{
+    .modalPopup-dialog
+    {
+        width: 600px;
+        margin: 30px auto;
+    }
+
+    .modalPopup-content
+    {
+        -webkit-box-shadow: 0 5px 15px rgba(0,0,0,.5);
+        box-shadow: 0 5px 15px rgba(0,0,0,.5);
+    }
+
+    .modalPopup-sm
+    {
+        width: 300px;
+    }
+}
+
+@media (min-width:992px)
+{
+    .modalPopup-lg
+    {
+        width: 900px;
+    }
+}
+
+
+.mGridPict {
+    cursor: move;
+    margin: 5px 0 5px 5px;
+    border-collapse: collapse;
+    cursor: move;
+}
+

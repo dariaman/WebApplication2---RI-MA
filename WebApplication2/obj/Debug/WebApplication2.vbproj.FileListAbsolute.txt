@@ -1,0 +1,13 @@
+C:\Users\Har-Va\documents\visual studio 2012\Projects\WebApplication2\WebApplication2\bin\WebApplication2.dll
+C:\Users\Har-Va\documents\visual studio 2012\Projects\WebApplication2\WebApplication2\bin\WebApplication2.pdb
+C:\Users\Har-Va\documents\visual studio 2012\Projects\WebApplication2\WebApplication2\bin\WebApplication2.xml
+C:\Users\Har-Va\documents\visual studio 2012\Projects\WebApplication2\WebApplication2\obj\Debug\WebApplication2.Resources.resources
+C:\Users\Har-Va\documents\visual studio 2012\Projects\WebApplication2\WebApplication2\obj\Debug\WebApplication2.vbproj.GenerateResource.Cache
+C:\Users\Har-Va\documents\visual studio 2012\Projects\WebApplication2\WebApplication2\obj\Debug\WebApplication2.dll
+C:\Users\Har-Va\documents\visual studio 2012\Projects\WebApplication2\WebApplication2\obj\Debug\WebApplication2.xml
+C:\Users\Har-Va\documents\visual studio 2012\Projects\WebApplication2\WebApplication2\obj\Debug\WebApplication2.pdb
+C:\Users\Har-Va\documents\visual studio 2012\Projects\WebApplication2\WebApplication2\obj\Debug\WebApplication2.vbprojResolveAssemblyReference.cache
+C:\Users\Har-Va\documents\visual studio 2012\Projects\WebApplication2\WebApplication2\bin\SPGeneral.dll
+C:\Users\Har-Va\documents\visual studio 2012\Projects\WebApplication2\WebApplication2\bin\WebService.dll
+C:\Users\Har-Va\documents\visual studio 2012\Projects\WebApplication2\WebApplication2\bin\WebService.pdb
+C:\Users\Har-Va\documents\visual studio 2012\Projects\WebApplication2\WebApplication2\bin\WebService.xml

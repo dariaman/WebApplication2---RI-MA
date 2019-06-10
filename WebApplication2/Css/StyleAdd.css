@@ -1,0 +1,104 @@
+﻿#DivBody,#DivBody1 {
+    margin: 0.1%;
+    /*padding: 10px; background: #004080;*/
+    /*height:100%;*/
+    border-width: 1px;
+    /*border-color: inherit;*/
+    /*overflow-y: auto;*/
+    /*overflow-x: auto;*/
+    /*height: 450px;*/
+    /*background: #efefef;*/
+    list-style: none;
+    /*background-image: url('../Images/Background.png');*/
+    background-repeat: no-repeat;
+    -moz-border-radius: 1em 1em 1em 1em;
+    -webkit-border-radius: 1em 1em 1em 1em;
+    border-radius: 1em 1em 1em 1em;
+    background-position: center;
+    
+}
+#LblCap
+{
+	font-family:'Bauhaus 93';
+	font-size: xx-large;
+	text-decoration: line-through;
+}
+
+#card {
+    margin: 0.1%;
+    padding:0.1%;
+    width:50%;
+    height:50%;
+    background-image: url('../../../Images/Reliance (FG)-01.png');
+    background-repeat: no-repeat;
+    -moz-border-radius: 1em 1em 1em 1em;
+    -webkit-border-radius: 1em 1em 1em 1em;
+    border-radius: 1em 1em 1em 1em;
+    background-position: center;
+}
+
+.cal_Theme1 .ajax__calendar_container {
+    background-color: #DEF1F4;
+    border: solid 1px #77D5F7;
+    /*box-shadow: 2px 1px 3px #DEF1F4;*/
+    background: #DEF1F4;
+    background: linear-gradient(top, #DEF1F4 0%, #ffffff 100%);
+    background: -moz-linear-gradient(top, #DEF1F4 0%, #ffffff 100%);
+    background: -webkit-linear-gradient(top, #DEF1F4 0%,#ffffff 100%);
+}
+
+.cal_Theme1 .ajax__calendar_header {
+    background-color: #ffffff;
+    margin-bottom: 4px;
+}
+
+.cal_Theme1 .ajax__calendar_title,
+.cal_Theme1 .ajax__calendar_next,
+.cal_Theme1 .ajax__calendar_prev {
+    color: #004080;
+    padding-top: 3px;
+}
+
+.cal_Theme1 .ajax__calendar_body {
+    background-color: #ffffff;
+    border: solid 1px #77D5F7;
+}
+
+.cal_Theme1 .ajax__calendar_dayname {
+    text-align: center;
+    font-weight: bold;
+    margin-bottom: 4px;
+    margin-top: 2px;
+    color: #004080;
+}
+
+.cal_Theme1 .ajax__calendar_day {
+    color: #004080;
+    text-align: center;
+}
+
+.cal_Theme1 .ajax__calendar_hover .ajax__calendar_day,
+.cal_Theme1 .ajax__calendar_hover .ajax__calendar_month,
+.cal_Theme1 .ajax__calendar_hover .ajax__calendar_year,
+.cal_Theme1 .ajax__calendar_active {
+    color: #004080;
+    font-weight: bold;
+    background-color: #DEF1F4;
+}
+
+.cal_Theme1 .ajax__calendar_today {
+    font-weight: bold;
+}
+
+.cal_Theme1 .ajax__calendar_other,
+.cal_Theme1 .ajax__calendar_hover .ajax__calendar_today,
+.cal_Theme1 .ajax__calendar_hover .ajax__calendar_title {
+    color: #bbbbbb;
+}
+
+@media (min-width:250px){#DivBody{background-image: url('../Images/Background3.png');height:450px;overflow-y: scroll;overflow-x: hidden;}}
+@media (min-width:768px){#DivBody{background-image: url('../Images/Background2.png');height:450px;overflow-y: scroll;overflow-x: hidden;}}
+@media (min-width:992px){#DivBody{background-image: url('../Images/Background1.png');height:500px;overflow-y: scroll;overflow-x: hidden;}}
+@media (min-width:1200px){#DivBody{background-image: url('../Images/Background.png');height:550px;overflow-y: scroll;overflow-x: hidden;}}
+@media (min-width:1700px){#DivBody{background-image: url('../Images/Background.png');height:550px;overflow-y: scroll;overflow-x: hidden;}}
+    

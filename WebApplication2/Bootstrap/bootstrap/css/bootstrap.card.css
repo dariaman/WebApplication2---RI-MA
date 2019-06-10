@@ -1,0 +1,133 @@
+﻿/*@media (min-width:1200px){.col-card-12{float:left}.col-card-12{width:100%}.col-card-12{position:relative;min-height:1px;padding-right:15px;padding-left:15px}*/
+@media (min-width:250px){.card-counternonipdepan{
+    box-shadow: 2px 2px 10px #DADADA;
+    margin: 5px;
+    padding: 20px 10px;
+    height: 258px;
+	width:410px;
+    border-radius: 5px;
+    transition: .3s linear all;
+	 background-repeat: no-repeat;
+	background-image: url('../../../Images/RelianceNonIpdepan.png');
+  }}
+   
+@media (min-width:250px){.card-counteripdepan{
+    box-shadow: 2px 2px 10px #DADADA;
+    margin: 5px;
+    padding: 20px 10px;
+    height: 258px;
+	width:410px;
+    border-radius: 5px;
+    transition: .3s linear all;
+	 background-repeat: no-repeat;
+	background-image: url('../../../Images/RelianceIpdepan.png');
+  }}
+   
+
+@media (min-width:250px){.card-counternonipbelakang{
+    box-shadow: 2px 2px 10px #DADADA;
+    margin: 5px;
+    padding: 20px 10px;
+    height: 258px;
+	width:410px;
+    border-radius: 5px;
+    transition: .3s linear all;
+	 background-repeat: no-repeat;
+	background-image: url('../../../Images/RelianceNonIpbelakang.png');
+  }}
+
+@media (min-width:250px){.card-counteripbelakang{
+    box-shadow: 2px 2px 10px #DADADA;
+    margin: 5px;
+    padding: 20px 10px;
+    height: 258px;
+	width:410px;
+    border-radius: 5px;
+    transition: .3s linear all;
+	 background-repeat: no-repeat;
+	background-image: url('../../../Images/RelianceIpbelakang.png');
+  }}
+/*.col-card-4{width:39%}*/
+
+@media (min-width:468px)
+{
+	 .col-card-4
+	{
+		float: left;
+	}
+	.col-card-4
+	{
+		width:410px;
+	}
+
+}
+
+.col-card-4
+{
+	position: relative;
+	min-height: 1px;
+	padding-right: 10px;
+	padding-left: 10px;
+	display: none;
+}
+
+  .card-counternonipdepan:hover{
+    box-shadow: 4px 4px 20px #DADADA;
+    transition: .3s linear all;
+  }
+
+  .card-counternonipdepan.primary{
+    background-color: #007bff;
+    color: #FFF;
+  }
+
+  .card-counternonipdepan.danger{
+    background-color: #ef5350;
+    color: #FFF;
+  }  
+
+  .card-counternonipdepan.success{
+    background-color: #66bb6a;
+    color: #FFF;
+  }  
+
+  .card-counternonipdepan.info{
+    background-color: #26c6da;
+    color: #FFF;
+  }  
+
+  .card-counternonipdepan i{
+    font-size: 5em;
+    opacity: 0.2;
+  }
+
+  /*.card-counternonipdepan .count-numbers{
+    position: absolute;
+    right: 35px;
+    top: 20px;
+    font-size: 32px;
+    display: block;
+  }
+  
+  .card-counternonipdepan .count-name{
+    position: absolute;
+    right: 35px;
+    top: 65px;
+    font-style: italic;
+    text-transform: capitalize;
+    opacity: 0.5;
+    display: block;
+    font-size: 18px;
+  }
+
+  .card-counternonipdepan .count-address{
+    position: absolute;
+    right: 35px;
+    top: 95px;
+    font-style: italic;
+    text-transform: capitalize;
+    opacity: 0.5;
+    display: block;
+    font-size: 18px;
+  }*/
+/*# sourceMappingURL=bootstrap.min.css.map */
