@@ -2,7 +2,7 @@ packages
 /packages
 packages/
 packages/*
-WebApplication2/bin/
+WebApplication2/bin/*
 WebApplication2/obj/
 WebService1/bin/
 WebService1/obj/
